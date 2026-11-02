@@ -54,29 +54,29 @@ A temperature monitoring system built with the STM32F103RB microcontroller, BMP1
 
 ## 1. BMP180 Sensor Interface
 
-Implemented I²C register communication using STM32 HAL functions.
+<p>Implemented I²C register communication using STM32 HAL functions.
 
 Initiated temperature measurements and retrieved sensor data.
 
-Processed raw sensor readings for temperature output.
+Processed raw sensor readings for temperature output.</p>
 
 ## 2. SSD1306 OLED Driver
 
-Implemented OLED initialization and display control commands.
+<p>Implemented OLED initialization and display control commands.
 
 Configured horizontal addressing and page/column ranges.
 
 Developed routines for writing display data and clearing the screen.
 
-Implemented a custom 5×7 numeric bitmap font, including decimal-point rendering.
+Implemented a custom 5×7 numeric bitmap font, including decimal-point rendering.</p>
 
 ## 3. UART Communication
 
-Configured USART2 for serial communication.
+<p>Configured USART2 for serial communication.
 
 Transmitted temperature readings to a computer for monitoring.
 
-Used serial output to support firmware debugging and verification.
+Used serial output to support firmware debugging and verification.</p>
 
 ## Project Demonstration
 
