@@ -42,7 +42,7 @@ A temperature monitoring system built with the STM32F103RB microcontroller, BMP1
     
   </tr>
   <tr>
-    <th colspawn="2">Software</th>
+    <th colspan="2">Software</th>
   </tr>
   <tr>
     <ul>
