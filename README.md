@@ -16,12 +16,27 @@ A temperature monitoring system built with the STM32F103RB microcontroller, BMP1
 
 
 # Hardware Components
-Microcontroller          STM32 NUCLEO-F103RB
+<table>
+  <tr>
+    <td>MicrocontrollerSTM32</td>
+    <td>NUCLEO-F103RB</td>
+  </tr>
+  <tr>
+    <td>Temperature sensor</td>
+    <td>BMP180</td>
+  </tr>
+  <tr>
+    <td>Display</td>
+    <td>SSD1306 128×64 OLED</td>
+  </tr>
+  <tr>
+    <td>Communication</td>
+    <td>I²C1, USART2</td>
+  </tr>
+  <tr>
+    <td>Debugger</td>
+    <td>Onboard ST-LINK</td>
+    
+  </tr>
+</table>
 
-Temperature sensor          BMP180
-
-Display | SSD1306 128×64 OLED
-
-Communication | I²C1, USART2
-
-Debugger | Onboard ST-LINK
