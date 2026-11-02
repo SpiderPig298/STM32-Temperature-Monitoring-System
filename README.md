@@ -78,7 +78,7 @@ Transmitted temperature readings to a computer for monitoring.
 
 Used serial output to support firmware debugging and verification.</p>
 
-## Project Demonstration
+# Project Demonstration
 
 
 
