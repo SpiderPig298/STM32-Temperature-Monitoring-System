@@ -13,3 +13,15 @@ A temperature monitoring system built with the STM32F103RB microcontroller, BMP1
 - Custom 5×7 bitmap font for displaying numeric values
 
 - Modular firmware organization using separate sensor and display driver files
+
+
+# Hardware Components
+Microcontroller | STM32 NUCLEO-F103RB
+
+Temperature sensor | BMP180
+
+Display | SSD1306 128×64 OLED
+
+Communication | I²C1, USART2
+
+Debugger | Onboard ST-LINK
