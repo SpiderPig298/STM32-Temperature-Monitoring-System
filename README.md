@@ -80,6 +80,6 @@ Used serial output to support firmware debugging and verification.</p>
 
 # Project Demonstration
 
-<img width="500px" src="uart_recieve 00_00_00-00_00_30.gif">
+<img src="uart_recieve 00_00_00-00_00_30.gif">
 
 BMP180 temperature reading displayed on the SSD1306 OLED.
