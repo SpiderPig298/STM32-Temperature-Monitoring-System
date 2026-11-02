@@ -15,11 +15,14 @@ A temperature monitoring system built with the STM32F103RB microcontroller, BMP1
 - Modular firmware organization using separate sensor and display driver files
 
 
-# Hardware Components
+# Components and tools
 <table>
   <tr>
-    <td>MicrocontrollerSTM32</td>
-    <td>NUCLEO-F103RB</td>
+    <th colspan="2">Hardware</th>
+  </tr>
+  <tr>
+    <td>Microcontroller</td>
+    <td>STM32 NUCLEO-F103RB</td>
   </tr>
   <tr>
     <td>Temperature sensor</td>
@@ -37,6 +40,16 @@ A temperature monitoring system built with the STM32F103RB microcontroller, BMP1
     <td>Debugger</td>
     <td>Onboard ST-LINK</td>
     
+  </tr>
+  <tr>
+    <th colspawn="2">Software</th>
+  </tr>
+  <tr>
+    <ul>
+      <li>STM32CubeIDE</li>
+      <li>STM32CubeMX peripheral configuration</li>
+      <li>STM32 HAL Driver</li>
+    </ul>
   </tr>
 </table>
 
