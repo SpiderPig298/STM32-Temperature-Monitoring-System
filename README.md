@@ -79,8 +79,8 @@ Transmitted temperature readings to a computer for monitoring.
 Used serial output to support firmware debugging and verification.</p>
 
 # Project Demonstration
-
-<img src="./pic/uart_revieve 00_00_00-00_00_30.gif" width="45%" display="inline-block">
-<img src="./pic/layout.gif" width="45%" display="inline-block">
-
+<div>
+  <img src="./pic/uart_revieve 00_00_00-00_00_30.gif" width="45%" display="inline-block">
+  <img src="./pic/layout.gif" width="45%" display="inline-block">
+</div>
 BMP180 temperature reading displayed on the SSD1306 OLED.
