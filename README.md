@@ -84,3 +84,19 @@ Used serial output to support firmware debugging and verification.</p>
   <img src="./pic/layout.gif" width="45%" display="inline-block">
 </div>
 BMP180 temperature reading displayed on the SSD1306 OLED.
+
+
+
+
+# Future Improvements
+
+
+- Pressure measurement and display
+
+- Non-blocking sensor acquisition using a timer or state machine
+
+- Improved I²C error handling and recovery
+
+- Display updates without clearing the entire screen
+
+- Additional sensors or FreeRTOS-based task scheduling
